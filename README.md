@@ -60,3 +60,4 @@ For more information on using the Angular CLI, including detailed command refere
 "# Shop_app" 
 "# Zando_app" 
 "# Zando_app" 
+"# zando_shop" 
