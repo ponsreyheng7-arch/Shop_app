@@ -20,8 +20,7 @@
 }
 
 .form-control:focus {
-  /* border-color: #007bff; */
-  border-color: #4dac12;
+  border-color: #007bff;
   box-shadow: 0 0 0 0.15rem rgba(0, 123, 255, 0.25);
 }
 

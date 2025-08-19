@@ -1,4 +1,4 @@
-.checkout-container {
+/* .checkout-container {
   width: 68.4%;
   margin: 30px auto;
   padding: 20px;
@@ -24,8 +24,6 @@
   background: #ddd;
   margin: 0 15px;
 }
-
-/* Tabs */
 .tabs {
   display: flex;
   gap: 10px;
@@ -80,7 +78,6 @@
   text-align: right;
 }
 
-/* ========== Responsive Styling ========== */
 
 @media (max-width: 992px) {
   .checkout-container {
@@ -134,4 +131,4 @@
   .checkout-header {
     font-size: 1.25rem;
   }
-}
+} */
