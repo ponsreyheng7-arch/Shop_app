@@ -62,3 +62,4 @@ For more information on using the Angular CLI, including detailed command refere
 "# Zando_app" 
 "# zando_shop" 
 "# sv12_shop" 
+"# Final_Hosting" 
