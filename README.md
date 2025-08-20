@@ -64,3 +64,4 @@ For more information on using the Angular CLI, including detailed command refere
 "# sv12_shop" 
 "# Final_Hosting" 
 "# Final_Hosting" 
+"# new-project" 
